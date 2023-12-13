@@ -1,0 +1,23 @@
+site_name: My Docs
+nav:
+  - Introduction: index.md
+  - Ağ Güvenliği Sorunları Ve Çözümleri:
+    - DDoS Attacks: pages/ddos.md
+    - Phishing Attacks: pages/phishing.md
+    - Ransomware: pages/ransomware.md
+    - Zero Day: pages/zeroDay.md
+    - IoT: pages/ıot.md
+    - Veri İhlalleri ve Sızıntıları: pages/veriİhlali.md
+    - Yapay Zeka: pages/yapayZeka.md
+    - Güvenlik Açıkları: pages/güvenlikAçıkları.md
+  - Ağ Güvenliği Uygulamaları ve Araçları:
+    - Firewalls: pages/firewalls.md
+    - IDS/IPS: pages/ıdsIps.md
+    - Antivirüs: pages/antivirüs.md
+    - Kriptografi: pages/kriptografi.md
+    - Kriptografi Araçlarının Kullanımı ve Önemi: pages/kriptografiÖnem.md
+    - Şifreleme Araçları: pages/şifreleme.md
+
+
+
+
