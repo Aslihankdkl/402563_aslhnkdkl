@@ -11,7 +11,7 @@ nav:
     - Yapay Zeka: pages/yapayZeka.md
     - Güvenlik Açıkları: pages/güvenlikAçıkları.md
   - Ağ Güvenliği Uygulamaları ve Araçları:
-    - Firewalls: pages/firewalls.md
+    - Güvenlik Duvarları: pages/firewalls.md
     - IDS/IPS: pages/ıdsIps.md
     - Antivirüs: pages/antivirüs.md
     - Kriptografi: pages/kriptografi.md
